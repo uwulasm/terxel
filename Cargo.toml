@@ -1,7 +1,16 @@
 [package]
 name = "terxel"
-description = "draw pixels in the terminal with ANSI characters"
+description = "draw pixels in the terminal with ANSI characters with zero dependencies"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/uwulasm/terxel"
+license = "MIT"
+keywords = [
+    "cli",
+]
+categories = [
+    "command-line-interface",
+    "graphics",
+]
 
 [dependencies]
