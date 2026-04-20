@@ -1,0 +1,7 @@
+[package]
+name = "terxel"
+description = "draw pixels in the terminal with ANSI characters"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
